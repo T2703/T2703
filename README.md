@@ -16,4 +16,4 @@
   </a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
