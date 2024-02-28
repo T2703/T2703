@@ -2,8 +2,8 @@
 
 
 
-<p align="center">
+<p align="center"> Programming Languages:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java, cs, js, kubernetes,docker,c,vim" />
   </a>
 </p>
