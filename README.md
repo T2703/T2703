@@ -15,3 +15,5 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,figma" />
   </a>
 </p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=T2703)](https://github.com/anuraghazra/github-readme-stats)
