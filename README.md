@@ -1,4 +1,4 @@
-<h1 align="center">Ethan Griesman </h1>
+<h1 align="center">Welcome To My GitHub!</h1>
 
 
 
