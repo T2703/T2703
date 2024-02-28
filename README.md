@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,figma" />
+    [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703&tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703&tokyonight)](https://github.com/anuraghazra/github-readme-stats)
