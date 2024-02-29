@@ -16,5 +16,5 @@
   </a>
 </p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703&show_icons=true&theme=synthwave)]
+![Top Languages](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
