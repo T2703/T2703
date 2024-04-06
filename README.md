@@ -12,7 +12,7 @@
 <h3 align="center"> Developer Tools: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,unity,figma" />
   </a>
 </p>
 
