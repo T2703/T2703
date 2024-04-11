@@ -5,7 +5,7 @@
 <h3 align="center"> Programming Languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,c,py,lua,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,c,py,lua,html,css,js" />
   </a>
 </p>
 
@@ -18,4 +18,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=T2703&show_icons=true&theme=synthwave)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=T2703&hide_progress=true&theme=synthwave)
+
+Always wanting to grow and develop.
 
