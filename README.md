@@ -5,14 +5,14 @@
 <h3 align="center"> Programming Languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,cs,c,py,lua,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=typescript,kotlin,java,cs,c,py,lua,html,css,js" />
   </a>
 </p>
 
 <h3 align="center"> Developer Tools: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,unity,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,eclipse,react,androidstudio,godot,unity,figma" />
   </a>
 </p>
 
