@@ -5,7 +5,7 @@
 <h3 align="center"> Programming Languages: </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,kotlin,java,cs,c,py,lua,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=php,typescript,kotlin,java,cs,c,py,lua,html,css,js" />
   </a>
 </p>
 
